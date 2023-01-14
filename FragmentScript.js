@@ -1,7 +1,4 @@
 // Development Environment
-import {nerdamer} from "https://github.com/jiggzson/nerdamer/blob/master/all.min.js"
-import {p5} from "https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.0.0/p5.min.js"
-import {ml5} from "https://unpkg.com/ml5@latest/dist/ml5.min.js"
 
 class CodeBlock {
   constructor(code, index) {
@@ -86,15 +83,15 @@ const Ma = {
   logE: function(x) {
     return Math.log(x)
   },
-  deriv: function(x, n, ex) {
-    nerdamer(`diff(${ex}, ${x}, ${n})`)
-  },
+  //deriv: function(x, n, ex) {
+    //nerdamer(`diff(${ex}, ${x}, ${n})`)
+  //},
   rand: function(x) {
     return Math.floor(Math.random() * x) + 1
   },
-  aderiv: function(exp, dx) {
-    nerdamer(`integrate(${exp}, ${dx})`)
-  }
+  //aderiv: function(exp, dx) {
+    //nerdamer(`integrate(${exp}, ${dx})`)
+  //}
 }
 
 function exec(name, code, params) {
