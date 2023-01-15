@@ -1,22 +1,22 @@
 # Syntax Stuff For Commit Template:
 
-*`Ln`
+* `Ln`
 
-  *`.throw`
+  * `.throw`
   
-    *`.message`
+    * `.message`
     
-    *`.warning`
+    * `.warning`
     
-    *`.err`
+    * `.err`
     
-    *`.messageN`
+    * `.messageN`
     
-  *`.say`
+  * `.say`
   
-  *`ask`
+  * `ask`
   
-*`AddLib`
+* `AddLib`
 
-*`print`
+* `print`
 
