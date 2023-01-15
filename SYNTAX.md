@@ -22,10 +22,10 @@
 
 * `Init__`
 
-  * `Rust`
+  * `.Rust`
 
-  * `Pylance`
+  * `.Pylance`
 
-  *  `NodeJS`
+  *  `.NodeJS`
 
-  * `jQuery`
+  * `.jQuery`
