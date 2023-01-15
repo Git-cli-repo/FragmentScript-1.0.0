@@ -20,3 +20,12 @@
 
 * `print`
 
+* `Init__`
+
+ * `Rust`
+
+ * `Pylance`
+
+ *  `NodeJS`
+
+ * `jQuery`
