@@ -1,6 +1,6 @@
 // Development Environment
 window.onload = (event) => {
-  console.log("You need to Install Nerdamer before doing anything! If this message pops up, you're all good!");
+  console.log("Using FragmentScript!");
 };
 
 class CodeBlock {
